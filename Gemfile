@@ -10,3 +10,7 @@ group :assets do
   gem 'sass-rails', '3.2.5'
   gem 'uglifier', '1.2.6'
 end
+
+group :development do
+  gem 'heroku_san', '3.0.4'
+end
